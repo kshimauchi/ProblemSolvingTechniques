@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="56df7546-afec-407d-b446-1628fdb7046b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/citations_solution/.idea/citations.py.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/citations_solution/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/citations_solution/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/citations_solution/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/citations_solution/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/citations_solution/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/citations_solution/citations_frequency.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1cNhxFaaUvoezyk3k9VtvQFjNhk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/citations_solution" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="python_workspaces" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="python_workspaces" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.citations_frequency">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="python_workspaces" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python27\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="citations_frequency" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_workspaces" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/citations_solution" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/citations_solution/citations_frequency.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="citations_solution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_workspaces" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/citations_solution" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_workspaces" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.citations_solution" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.citations_frequency" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.citations_frequency" />
+        <item itemvalue="Python.citations_frequency" />
+        <item itemvalue="Python.citations_solution" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56df7546-afec-407d-b446-1628fdb7046b" name="Default Changelist" comment="" />
+      <created>1590375203181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590375203181</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="524" y="201" key="#Notifications" timestamp="1590377852248">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="524" y="201" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1590377852248" />
+    <state x="392" y="0" key="#citations_frequency" timestamp="1590388365498">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="392" y="0" key="#citations_frequency/0.0.1366.728@0.0.1366.728" timestamp="1590388365498" />
+    <state x="133" y="12" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590423954722">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="133" y="12" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1590423954722" />
+    <state x="242" y="67" key="FileChooserDialogImpl" timestamp="1590389091961">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="242" y="67" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590389091961" />
+    <state width="1328" height="175" key="GridCell.Tab.0.bottom" timestamp="1590427729098">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1328" height="175" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590427729098" />
+    <state width="1328" height="175" key="GridCell.Tab.0.center" timestamp="1590427729098">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1328" height="175" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590427729098" />
+    <state width="1328" height="175" key="GridCell.Tab.0.left" timestamp="1590427729097">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1328" height="175" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590427729097" />
+    <state width="1328" height="175" key="GridCell.Tab.0.right" timestamp="1590427729098">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1328" height="175" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590427729098" />
+    <state width="1328" height="222" key="GridCell.Tab.1.bottom" timestamp="1590389829382">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1328" height="222" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590389829382" />
+    <state width="1328" height="222" key="GridCell.Tab.1.center" timestamp="1590389829381">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1328" height="222" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1590389829381" />
+    <state width="1328" height="222" key="GridCell.Tab.1.left" timestamp="1590389829380">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1328" height="222" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1590389829380" />
+    <state width="1328" height="222" key="GridCell.Tab.1.right" timestamp="1590389829381">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1328" height="222" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1590389829381" />
+    <state x="100" y="0" width="1141" height="728" key="SettingsEditor" timestamp="1590380467834">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="100" y="0" width="1141" height="728" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590380467834" />
+    <state x="407" y="216" width="753" height="340" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1590377674246">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="407" y="216" width="753" height="340" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1366.728@0.0.1366.728" timestamp="1590377674246" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/test.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
