@@ -9,15 +9,15 @@
 # how many entries in the array are greater than or equal to the count?
 # As soon as the count is greater or equal to the number of entries than the count, the h-index is 1 less than the count.
 from typing import List
-
 citations =[1,1,1,2,3,4,4,5,6]
 def h_index(citations: List[int])-> int:
-    citations.sort()            # sort(): internally is O(n lg n)
-    n = len(citations)          # len(
-    for i, c in enumerate(citations):
+    citations.sort()                    # sort(): internally is O(n lg n)
+    n = len(citations)                  # len(O(1)=(O(k))
+    for i, c in enumerate(citations):   # n-comparisons,
         if c >= n - i:
             return n - i
     return 0
 print(h_index(citations))
+
 
 
