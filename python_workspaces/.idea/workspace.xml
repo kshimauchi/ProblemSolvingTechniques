@@ -158,9 +158,9 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.count_bits" />
       <item itemvalue="Python.citations_frequency" />
       <item itemvalue="Python.citations_solution" />
-      <item itemvalue="Python.count_bits" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python tests.pytest in bin" />
     </list>
