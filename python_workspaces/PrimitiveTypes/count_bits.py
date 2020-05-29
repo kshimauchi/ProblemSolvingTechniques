@@ -14,8 +14,9 @@ def count_bits(x: int) -> int:
     return num_bits
 print(count_bits(12))
 
-@lru_cache
+@lru_cache(maxsize=1028)
 def count_vowels(sentence):
     sentence = sentence.casefold()
     return sum(sentence.count(vowel) for vowel in 'aeiou')
-print(count_vowels("Hello World"))
+print("count vowels: ")
+print(count_vowels("All developed computer languages so far are context sensitive "))
