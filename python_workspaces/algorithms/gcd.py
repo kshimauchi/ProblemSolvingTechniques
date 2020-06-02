@@ -15,8 +15,8 @@ def computeGreatestCommonDenominator(dividend, divisor):
         if((dividend % i ==0) and (divisor % i ==0)):
             gcd =i
     return gcd
-print(computeGreatestCommonDenominator(60,48)) #12
-print(computeGreatestCommonDenominator(777, 7))
+#print(computeGreatestCommonDenominator(60,48)) #12
+#print(computeGreatestCommonDenominator(777, 7))
 
 # gcd
 def gcd(dividend, divisor):
@@ -24,11 +24,11 @@ def gcd(dividend, divisor):
         return dividend
     else:
         return gcd(divisor, dividend % divisor)
-print(gcd(60,64))
+#print(gcd(60,64))
 
 # gcd
 def computeGCD(dividend, divisor):
     while(divisor):
         dividend, divisor = divisor, dividend % divisor
         return dividend
-print(computeGCD(234, 12))
+#print(computeGCD(234, 12))
