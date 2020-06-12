@@ -1,4 +1,3 @@
-
 # Euler's Theorem: if gcd(a, n)=1:
 # Find e, d, n that for all m in Z(n) where z(n) is the integers in modulo n
 # a^(Totient(n))= 1 mod n
